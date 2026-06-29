@@ -1,4 +1,4 @@
-# Logs
+"Initial project setup with Express backend"# Logs
 logs
 *.log
 npm-debug.log*
